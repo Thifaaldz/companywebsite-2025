@@ -10,7 +10,7 @@
         Ikuti pelatihan langsung dengan kurikulum industri, mentor profesional, dan sertifikat resmi. Siapkan diri untuk dunia kerja bersama EsgulCode.
       </p>
       <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
-        <a href="courses.html" class="btn-get-started">Get Started</a>
+        <a href="{{ route ('course') }}" class="btn-get-started">Get Started</a>
       </div>
     </div>
 
